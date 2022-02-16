@@ -1,5 +1,5 @@
-# Curso Python Pandas Digital Innovation
- Repositório do Curso Introdutório de Python para análise de dados com Python e Pandas da Digital Innovation One.
+# Curso ETL com Python e Pandas Digital Innovation
+ Repositório do Curso Intermediário de Python para análise de dados com Python e Pandas da Digital Innovation One.
  
  **Assuntos abordados neste curso**:
  1. Python Básico
